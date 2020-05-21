@@ -1,0 +1,11 @@
+Common Translator
+Goal-
+Must translate all regional language Slangs to standard English realtime
+Story-
+to help people communicate to other regionals languages
+Rules-
+write your text to get output
+characters/balance/Adaptivity/Chance and skill-
+no
+feedback-
+answer to their translations
